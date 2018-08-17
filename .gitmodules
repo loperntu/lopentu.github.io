@@ -1,0 +1,3 @@
+[submodule "PythonForHumanities"]
+	path = PythonForHumanities
+	url = https://github.com/lopentu/PythonForHumanities
